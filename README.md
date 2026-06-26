@@ -354,4 +354,4 @@ For support, feature requests, or customization inquiries, contact the developer
 
 ---
 
-**Map tiles & Leaflat configuration** [![from](https://github.com/RiceaRaul/gta-v-map-leaflet)]()
+**Map tiles & Leaflat idea** [from](https://github.com/RiceaRaul/gta-v-map-leaflet) 
